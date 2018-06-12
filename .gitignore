@@ -1,2 +1,8 @@
-# Created by .ignore support plugin (hsz.mobi)
-Reppart-Prochaska/REDUX/
+/node_modules
+bundle.js
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea

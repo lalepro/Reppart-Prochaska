@@ -24,3 +24,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm start
 ```
 # REDUX
+npm install --save-dev webpack-dev-server@3.1.4  
+npm install lodash@4.17.10  
