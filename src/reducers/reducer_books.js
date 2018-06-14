@@ -1,8 +1,12 @@
 export default function(){
     return [
-        { title:  'JavaScript: The best', summary: 'everything you need to know about Javascript', rating: '5 stars', pages: 101 },
-        { title: 'Heard it Outloud', summary: 'When you hear something and it is loud, you will love this book', rating: '3 stars', pages: 89  },
-        { title: 'The Dark Tower', summary: 'The tower was tall and Dark!', rating: '4 stars', pages: 78  },
-        { title: 'The Sisterhood', summary: 'The women who stuck together and lived in the same hood.', rating: '5 stars', pages: 205  }
+        { title: 'History of Darby and Laura', summary: 'Two women fall in love', rating: '5 stars', pages: 101 },
+        { title: '2014', summary: 'We met in a bar', rating: '5 stars', pages: 101 },
+        { title: '2015', summary: 'We got to know eachother', rating: '5 stars', pages: 89  },
+        { title: '2016', summary: 'We traveled a lot', rating: '4 stars', pages: 78  },
+        { title: '2017', summary: 'We moved to Texas!', rating: '5 stars', pages: 205  },
+        { title: '2018', summary: 'We bought a house and we got engaged!', rating: '5 stars', pages: 205  },
+        { title: '2019', summary: 'We planned a wedding!', rating: '5 stars', pages: 205  },
+        { title: '2020', summary: 'We got married!', rating: '5 stars', pages: 205  }
     ];
 }
